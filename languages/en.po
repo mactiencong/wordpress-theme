@@ -1,0 +1,225 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Garyu English\n"
+"POT-Creation-Date: 2018-07-17 11:05+0900\n"
+"PO-Revision-Date: 2018-07-18 08:46+0900\n"
+"Last-Translator: \n"
+"Language-Team: mactiencong@gmail.com\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: garyu_translated_string\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: include/contact/contact.php:10
+msgid "Step 01"
+msgstr "STEP 01"
+
+#: include/contact/contact.php:11
+msgid "項目の入力"
+msgstr "Input"
+
+#: include/contact/contact.php:19
+msgid "Step 02"
+msgstr "STEP 02"
+
+#: include/contact/contact.php:20
+msgid "入力内容の"
+msgstr "Confirm"
+
+#: include/contact/contact.php:28
+msgid "Step03"
+msgstr "STEP 03"
+
+#: include/contact/contact.php:29
+msgid "発送"
+msgstr "Submit"
+
+#: include/contact/contact.php:38
+msgid "Your input is invalid. Please enter a valid input"
+msgstr "Your input is invalid"
+
+#: include/contact/contact.php:54
+msgid "C確認画面に進む"
+msgstr "Confirm"
+
+#: include/contact/contact.php:55
+msgid "S確認画面に進む"
+msgstr "Send"
+
+#: include/contact/contact.php:57
+msgid "前の画面に戻る"
+msgstr "Go back"
+
+#: include/contact/step_one.php:7 include/contact/step_one.php:31
+#: include/contact/step_one.php:68 include/contact/step_one.php:80
+msgid "必須"
+msgstr "required"
+
+#: include/contact/step_one.php:7 include/contact/step_two.php:12
+msgid "お名前"
+msgstr "Name"
+
+#: include/contact/step_one.php:10
+msgid "Name is required"
+msgstr "Required field"
+
+#: include/contact/step_one.php:19 include/contact/step_two.php:24
+msgid "ふりがな"
+msgstr "Name in furigana"
+
+#: include/contact/step_one.php:31
+msgid "メールアド"
+msgstr "Mail"
+
+#: include/contact/step_one.php:34
+msgid "Email is invalid"
+msgstr "Email is invalid"
+
+#: include/contact/step_one.php:44 include/contact/step_two.php:50
+msgid "会社名"
+msgstr "Company Name"
+
+#: include/contact/step_one.php:55
+msgid "部雪"
+msgstr "Department"
+
+#: include/contact/step_one.php:68
+msgid "電話番号"
+msgstr "TEL"
+
+#: include/contact/step_one.php:80
+msgid "コンテンツ"
+msgstr "Message"
+
+#: include/contact/step_two.php:36
+msgid "メールアドレス"
+msgstr "Mail"
+
+#: include/contact/step_two.php:63
+msgid "部署"
+msgstr "Department"
+
+#: include/contact/step_two.php:75
+msgid "お問い合わせ内容"
+msgstr "Message"
+
+#: include/footer.php:10 include/menu.php:4 include/news/news_list.php:9
+msgid "ホーム"
+msgstr "HOME"
+
+#: include/footer.php:13 include/menu.php:5 include/news/news_list.php:10
+#: include/top/news.php:6
+msgid "ニュース"
+msgstr "NEWS"
+
+#: include/footer.php:16 include/menu.php:6
+msgid "商品紹介"
+msgstr "PRODUCT INTRODUCTION"
+
+#: include/footer.php:19 include/menu.php:7
+msgid "ギャラリー"
+msgstr "GALLERY"
+
+#: include/footer.php:22 include/menu.php:8
+msgid "お問い合わせ"
+msgstr "CONTACT US"
+
+#: include/footer.php:27
+msgid "LANGUAGE"
+msgstr "LANGUAGE"
+
+#: include/header.php:3
+msgid "Garyu Trading"
+msgstr "Garyu Trading"
+
+#: include/header.php:37
+msgid "ハンガリーと日本の架け橋へ"
+msgstr "To the bridge between Hungary and Japan"
+
+#: include/news/news_detail.php:11 include/top/news.php:13
+msgid "ニュース一覧へ"
+msgstr "News list"
+
+#: include/news/news_list.php:18
+msgid "前へ"
+msgstr "Forward"
+
+#: include/news/news_list.php:24
+msgid "次へ"
+msgstr "Next"
+
+#: include/top/company.php:4
+msgid "当社が扱うハンガリーの商品"
+msgstr "Product Introduction"
+
+#: include/top/company.php:5 include/top/company.php:11
+msgid "が扱うハンガリ"
+msgstr "View detail"
+
+#: include/top/company.php:10
+msgid "ハンガリー の風景"
+msgstr "Hungary scenery"
+
+#: include/top/contact.php:4
+msgid "会社概要"
+msgstr "Company profile"
+
+#: include/top/contact.php:9
+msgid "企業名"
+msgstr "Company Name"
+
+#: include/top/contact.php:12
+msgid "郵便番号 108-0075"
+msgstr "Garyu Trading Co., Ltd"
+
+#: include/top/contact.php:17
+msgid "設立"
+msgstr "Establishment date"
+
+#: include/top/contact.php:20
+msgid "2XXX年XX月YY日(担当者に伺ってください)"
+msgstr "July 18 2017"
+
+#: include/top/contact.php:25
+msgid "住所"
+msgstr "Address"
+
+#: include/top/contact.php:28
+msgid "〒160-0022 東京都新宿区新宿１丁目１１番１２号岩下ビル５Ｆ"
+msgstr ""
+
+#: include/top/contact.php:33
+msgid "連絡先"
+msgstr "Contact"
+
+#: include/top/contact.php:37
+msgid "TEL. 00-0000-0000(担当者に伺ってください)"
+msgstr "Phone: 03-6863-4500"
+
+#: include/top/contact.php:40
+msgid "FAX. 00-0000-0000(担当者に伺ってください)"
+msgstr "Fax: 03-6863-4501"
+
+#: include/top/contact.php:43
+msgid "MAIL. sample@mail.com(担当者に伺ってください)"
+msgstr "Email: info.garyutrading@gmail.com"
+
+#: include/top/intro.php:14
+msgid "もっと"
+msgstr "More"
+
+#: include/top/partner.php:9
+msgid "パートナー会社"
+msgstr "Our Partners"
+
+#~ msgid "Language"
+#~ msgstr "Language"
+
+#~ msgid "創業"
+#~ msgstr "Establishment date"
