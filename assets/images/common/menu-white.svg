@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="67px" height="72px" viewBox="0 0 67 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>menu-white</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="SP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SP-TOP" transform="translate(-637.000000, -50.000000)" fill="#FFFFFF">
+            <g id="//-HEADER">
+                <g id="menu-white" transform="translate(637.000000, 50.000000)">
+                    <rect id="Rectangle-12" x="0" y="0" width="67" height="3"></rect>
+                    <rect id="Rectangle-12-Copy" x="0" y="20" width="67" height="3"></rect>
+                    <rect id="Rectangle-12-Copy-2" x="0" y="39" width="67" height="3"></rect>
+                    <text id="MENU" font-family="OpenSans, Open Sans" font-size="13" font-weight="normal" letter-spacing="2.172857">
+                        <tspan x="12.5383192" y="71">MENU</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
